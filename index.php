@@ -69,7 +69,7 @@
 			<div class="card bg_card">
 			  <img src="https://global-img.gamergen.com/assassin-s-creed-valhalla-01-29-09-2020_0900964151.jpg" class="card-img-top" alt="">
 			  <div class="card-body">
-			    <h2 class="card-title text-center"><strong>Assassin's Creed Valhalla</strong></h2>
+			    <h2 class="card-title text-center"><strong>Assassin's Creed Valhalla coco</strong></h2>
 			    <p class="card-text"></p>
 			    <a href="ac_valhalla.php" class="btn btn-primary">See more...</a>
 	  		</div>
